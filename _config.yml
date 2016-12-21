@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Grzegorz Kokosiński"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Software engineer at Teradata. Contributor to Prestodb."
   location         : "Warsaw/Poland"
   email            :
   uri              :
@@ -87,7 +87,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : kokosing
   google_plus      :
