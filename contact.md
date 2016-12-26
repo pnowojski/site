@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 Use below form to send me an message. 
-<form method="POST" action="http://formspree.io/kokosing@prestodb.rocks">
+<form method="POST" action="https://www.formingo.co/submit/kokosing@prestodb.rocks">
   <input type="email" name="email" placeholder="Your email"/>
   <textarea rows="10" name="message" placeholder="Your message"></textarea>
   <button type="submit">Send</button>
