@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Presto rocks!"
+title                    : "Prestodb rocks!"
 title_separator          : "-"
-name                     : "Peppa pig"
+name                     : "Prestodb rocks!"
 description              : "Blog about contributions, usage and challenges with Presto (Distributed SQL Query Engine for Big Data)"
 url                      : "http://prestodb.rocks"
 baseurl                  : "/" 
@@ -81,7 +81,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software engineer at Teradata. Contributor to Prestodb."
   location         : "Warsaw/Poland"
-  email            :
+  email            : kokosing@prestodb.rocks
   uri              :
   bitbucket        :
   codepen          :
