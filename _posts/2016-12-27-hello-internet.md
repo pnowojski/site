@@ -24,7 +24,6 @@ See the video below to better understand what I mean.
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/L2zqTYgcpfg" frameborder="0"> </iframe>
 
-</br>
 Remember that I am always open for suggestions. If you have something that could help make me this site be better I am eager to listen. Any feedback is more than welcome. Write me [an email](mailto:kokosing@prestodb.rocks), post an [issue on github](https://github.com/prestodb-rocks/site), use a [contact page](/contact/), choose whatever you like! Please keep in mind that no feedback would not change anything, so do not hesitate and write!
 
 Keep your fingers crossed and let the fun begin.
