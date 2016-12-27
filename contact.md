@@ -2,6 +2,7 @@
 layout: single 
 title: Contact 
 permalink: /contact/
+author_profile: true
 ---
 
 Use below form to send me a message. 
