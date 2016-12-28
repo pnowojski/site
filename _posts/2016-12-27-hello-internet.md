@@ -1,7 +1,7 @@
 ---
 layout: single 
 title: Hello Internet!
-excerpt: 'Saying hello to you. Entry post.'
+excerpt_separator: <!--more-->
 ---
 
 >Dear Internet, 
@@ -11,6 +11,8 @@ excerpt: 'Saying hello to you. Entry post.'
 >But I have changed. Now it is my turn to speak. I want to give you something you have never had. So please sit back, relax and listen to what I have prepared for you. I will do my best, you will not regret your time with me.
 >
 >Enjoy!
+
+<!--more-->
 
 I have never thought that someday I will run my own blog. I am open to any opportunities so I decided to give it a chance after having this idea jumping in my head for some time already.
 
