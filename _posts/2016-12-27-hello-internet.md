@@ -1,7 +1,5 @@
 ---
-layout: single 
 title: Hello Internet!
-excerpt_separator: <!--more-->
 ---
 
 >Dear Internet, 
