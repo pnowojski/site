@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Grzegorz Kokosiński"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "Software engineer at Teradata. Contributor to Prestodb."
   location         : "Warsaw/Poland"
   email            : kokosing@prestodb.rocks
