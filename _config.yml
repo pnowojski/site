@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Prestodb rocks!"
 description              : "Blog about contributions, usage and challenges with Presto (Distributed SQL Query Engine for Big Data)"
 url                      : "http://prestodb.rocks"
-baseurl                  : "/" 
+baseurl                  : "" 
 repository               : prestodb-rocks/site
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
