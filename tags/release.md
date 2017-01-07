@@ -1,6 +1,6 @@
 ---
 layout: tag 
-title: "Posts about new releases"
+title: "Presto releases"
 tag: release 
 author_profile: true
 ---

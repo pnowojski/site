@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Posts: news"
+title: "Presto related news"
 category: news 
 author_profile: true
 ---
