@@ -14,7 +14,7 @@ title: Hello Internet!
 
 I have never thought that someday I will run my own blog. I am open to any opportunities so I decided to give it a chance after having this idea jumping in my head for some time already.
 
-In order to get to know what this blog is all about, please see [the about section](/about.html)!
+In order to get to know what this blog is all about, please see [the about section](/about/)!
 
 My plan is to run it for a year and see where it goes. I will put my effort to make it continuously better. Please be patient, as I am new to blogging so it may take me some time to reach the professional level. Surely, in case of getting more interest I will feel higher pressure, which will cause more articles, a better look, more utility tools etc.
 
