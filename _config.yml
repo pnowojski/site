@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Prestodb rocks!"
 title_separator          : "-"
 name                     : "Prestodb rocks!"
-description              : "Blog about contributions, usage and challenges with Presto (Distributed SQL Query Engine for Big Data)"
+description              : "Usage and challenges with Presto (Distributed SQL Query Engine for Big Data) from the Presto developer point of view"
 url                      : "http://prestodb.rocks"
 baseurl                  : "" 
 repository               : prestodb-rocks/site
