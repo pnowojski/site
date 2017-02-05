@@ -221,6 +221,11 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -236,6 +241,18 @@ defaults:
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      excerpt_separator: <!--more-->
+  # _projects
+  - scope:
+      path: ""
+      type: projects 
     values:
       layout: single
       author_profile: true

@@ -1,6 +1,6 @@
 ---
 layout: single 
-title: About site
+title: About the site
 permalink: /about/
 author_profile: true
 ---
