@@ -3,3 +3,10 @@ main:
      url: /about/
    - title: "Contact"
      url: /contact/
+blog:
+  - Hello Internet!
+  - The fundamentals: types of joins in SQL
+  - 2016 Q4 Teradata Presto relase - 157t
+  - The fundamentals: join algorithms
+  - SQL-on-anything - talk at Warsaw Hadoop User Group
+  - Unnecessary cross join elimination
