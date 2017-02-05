@@ -15,12 +15,19 @@ readable format.
 
 <!--more-->
 
+To check how query looks like after formating you may want to see [TPC-DS test queries](https://github.com/prestodb/presto/tree/master/presto-product-tests/src/main/resources/sql-tests/testcases/tpcds) in Presto.
+
 ## Installation
 
-Currently there is no installer. In order to use it you need to build (compile
-and package) on your own:  
+Currently there is no installer and there are two ways of how to use it. 
+You can either build formatter by your own or download already built binary file.
 
-~~~
+### Build it on your own
+
+That way you will be able to get the recent version. 
+To build (compile and package) on your own, you need to:
+
+~~~bash
 git git@github.com:prestodb-rocks/presto-query-formatter.git
 cd presto-query-formatter
 mvn clean build
@@ -29,15 +36,20 @@ mvn clean build
 Above commands requires that you have [git](https://git-scm.com/) and
 [maven](https://maven.apache.org/) installed.
 
-Once it is built, you can add an alias to make it easier to use:
+Once it is built, you can move it to `/usr/local/bin` to make it easier to use:
 
-~~~
-alias sqlformatter=`pwd`/target/presto-root-*-executable.jar 
+~~~bash
+sudo mv /target/presto-root-*-executable.jar /usr/local/bin/sqlformatter
 ~~~
 
-Notice that to make this alias be permanent, you need to place it to a file
-which will add to your session on its start. Depending on your operating system
-it may differ, in case of linux and bash it might be `~/.bashrc` file.
+### Download binary file
+
+Alternatively to building you can download the compiled file from [Maven Central Repository](https://repo1.maven.org/maven2/rocks/prestodb/presto-query-formatter/0.1/)
+
+~~~bash
+wget presto-query-formatter-0.1-executable https://repo1.maven.org/maven2/rocks/prestodb/presto-query-formatter/0.1/presto-query-formatter-0.1-executable.jar
+mv presto-query-formatter-0.1-executable.jar /usr/local/bin/sqlformatter
+~~~
 
 ## Usage
 
