@@ -17,6 +17,8 @@ readable format.
 
 To check how query looks like after formating you may want to see [TPC-DS test queries](https://github.com/prestodb/presto/tree/master/presto-product-tests/src/main/resources/sql-tests/testcases/tpcds) in Presto.
 
+If you are interested why I created yet another SQL query formatter, you want to visit this [blog post](/projects-and-sql-formatter/) where I explain the motivation behind this project.
+
 ## Installation
 
 Currently there is no installer and there are two ways of how to use it. 
