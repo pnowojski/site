@@ -32,3 +32,23 @@ that Presto connectors deserver separate post.
 
 Hope to see you there!
 
+---
+---
+---
+
+## An update
+
+The meetup happened many days ago and to make this post complete I would like 
+to share the related media files.
+Obviously I have a presentation slides. Also I have a single picture which 
+was taken during the meetup and shared on 
+[twitter](https://twitter.com/MarcinChoinski/status/823946905487020032).
+Moreover the organizer prepared a video, so you will not 
+only have a chance to read but also you have the possibility to watch. Unfortunately (or fortunately if you are 
+not fluent in English) the presentation was conducted in Polish.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/eev9mqp4AzmgiR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/GrzegorzKokosiski/presto-sql-on-anything-72220474" title="Presto - SQL on anything" target="_blank">Presto - SQL on anything</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/GrzegorzKokosiski">Grzegorz Kokosiński</a></strong> </div>
+
+![Picture taken by Marcin Choiński and shared via twitter](https://pbs.twimg.com/media/C28_V44XgAIkcD7.jpg:large)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iN14bUUL1pE" frameborder="0" allowfullscreen></iframe>
