@@ -1,5 +1,7 @@
 ---
 title: SQL-on-anything - talk at Warsaw Hadoop User Group
+header:
+  image: 'https://pbs.twimg.com/media/C28_V44XgAIkcD7.jpg:large'
 ---
 
 Just in case any of you were close to Warsaw (Poland) and you do not have any
