@@ -1,5 +1,6 @@
 ---
 title: 'The fundamentals: join algorithms'
+author: kokosing
 categories: internals
 tags: join fundamentals
 ---

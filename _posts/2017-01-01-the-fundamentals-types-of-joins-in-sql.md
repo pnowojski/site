@@ -1,5 +1,6 @@
 ---
 title: 'The fundamentals: types of joins in SQL'
+author: kokosing
 category: internals
 tags: join fundamentals
 ---

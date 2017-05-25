@@ -1,5 +1,6 @@
 ---
 title: 2016 Q4 Teradata Presto relase - 157t
+author: kokosing
 category: news
 tags: release
 ---

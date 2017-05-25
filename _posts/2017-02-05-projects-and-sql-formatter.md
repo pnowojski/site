@@ -1,5 +1,6 @@
 ---
 title: Projects and presto SQL query formatter
+author: kokosing
 ---
 
 Yay, I have added the [Projects](/projects) section to this blog. What is more,
