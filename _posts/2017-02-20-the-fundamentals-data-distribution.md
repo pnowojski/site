@@ -1,5 +1,6 @@
 ---
 title: 'The fundamentals: MPP and data distribution'
+author: kokosing
 categories: internals 
 tags: fundamentals execution explain
 ---

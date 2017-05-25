@@ -1,5 +1,6 @@
 ---
 title: SQL-on-anything - talk at Warsaw Hadoop User Group
+author: kokosing
 header:
   image: 'https://pbs.twimg.com/media/C28_V44XgAIkcD7.jpg:large'
 ---

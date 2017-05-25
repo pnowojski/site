@@ -1,5 +1,6 @@
 ---
 title: Hello Internet!
+author: kokosing
 ---
 
 >Dear Internet, 

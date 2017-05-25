@@ -1,5 +1,6 @@
 ---
 title: Unnecessary cross join elimination
+author: kokosing
 tags: optimizer join
 category: internals
 ---
