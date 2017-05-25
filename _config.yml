@@ -76,36 +76,22 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "Grzegorz Kokosiński"
-  avatar           : "/assets/images/avatar.jpg"
-  bio              : "Software engineer at Teradata. Contributor to Prestodb."
-  location         : "Warsaw/Poland"
-  email            : kokosing@prestodb.rocks
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : 
-  foursquare       :
-  github           : kokosing
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : "217852/kokosing"
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-
+authors:
+  kokosing:
+    name                 : "Grzegorz Kokosiński"
+    avatar               : "/assets/images/avatar.jpg"
+    bio                  : "Software engineer at Teradata. Contributor to Prestodb."
+    location             : "Warsaw/Poland"
+    email                : kokosing@prestodb.rocks
+    github               : kokosing
+    stackoverflow        : "217852/kokosing"
+  pnowojski:
+    name                 : Piotr Nowojski
+    avatar               : "/assets/images/pnowojski.jpg"
+    bio                  : "Software engineer at Teradata. Contributor to Prestodb."
+    location             : "Warsaw/Poland"
+    email                : piotr.nowojski@gmail.com
+    github               : pnowojski
 
 # Reading Files
 include:
