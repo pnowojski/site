@@ -1,10 +1,10 @@
-{% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}
-{% else %}
-  {% assign author = site.author %}
-{% endif %}
-
 <div itemscope itemtype="http://schema.org/Person">
+{% for authorItem in site.authors %}
+  {% if page.author and authorItem[0] != page.author %}
+    {% continue %}
+  {% endif %}
+
+  {% assign author = authorItem[1] %}
 
   {% if author.avatar %}
     <div class="author__avatar">
@@ -230,4 +230,5 @@
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
+{% endfor %}
 </div>
