@@ -47,11 +47,11 @@ sudo mv /target/presto-root-*-executable.jar /usr/local/bin/sqlformatter
 
 ### Download binary file
 
-Alternatively to building you can download the compiled file from [Maven Central Repository](https://repo1.maven.org/maven2/rocks/prestodb/presto-query-formatter/0.1/)
+Alternatively to building you can download the compiled file from [Maven Central Repository](https://repo1.maven.org/maven2/rocks/prestodb/presto-query-formatter/0.2/)
 
 ~~~bash
-wget presto-query-formatter-0.1-executable https://repo1.maven.org/maven2/rocks/prestodb/presto-query-formatter/0.1/presto-query-formatter-0.1-executable.jar
-mv presto-query-formatter-0.1-executable.jar /usr/local/bin/sqlformatter
+wget presto-query-formatter-0.2-executable https://repo1.maven.org/maven2/rocks/prestodb/presto-query-formatter/0.2/presto-query-formatter-0.2-executable.jar
+mv presto-query-formatter-0.2-executable.jar /usr/local/bin/sqlformatter
 ~~~
 
 ## Usage
