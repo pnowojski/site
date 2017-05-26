@@ -1,5 +1,6 @@
 ---
 title: Presto query formatter
+author: kokosing
 ---
 
 Utility tool that is capable of:
