@@ -1,0 +1,14 @@
+_id: fe92d950-5a5b-11e7-8159-fdb7900fd969
+message: >-
+  Very interesting piece of research! Thank you, especially since, like you
+  mentioned yourself, data on this topic is quite hard to come by. It does look
+  like SIMD is a huge win for C++ at this point - even Rust doesn't (AFAIK)
+  currently have support for it.
+name: Timmy Jose
+email: 3924d59ffa63b8cfd8db7e0d4fd47544
+url: ''
+hidden: ''
+date: '2017-06-26T10:41:22.250Z'
+datum_inschrijving: '2017-06-26T10:41:22.250Z'
+doet_mee_aan_tornooi: true
+nieuwe_inschrijving: true
