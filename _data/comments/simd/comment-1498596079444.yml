@@ -1,0 +1,9 @@
+_id: f905cec0-5b78-11e7-9a13-b51276a7e587
+message: >-
+  Not all JVMs are created equal - Azul Zing now uses the LLVM backend for their
+  JIT, so in theory they pick up any work done for clang etc.
+name: Pete Windle
+email: 292c3ef93daa68e2897b6643f0e6f4d2
+url: ''
+hidden: ''
+date: '2017-06-27T20:41:19.442Z'
