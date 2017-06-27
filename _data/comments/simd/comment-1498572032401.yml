@@ -1,0 +1,16 @@
+_id: fbc6e500-5b40-11e7-9a99-bd84378a7f76
+message: >-
+  Regarding C# ->The .NET JIT will currently never do any auto vectorization. 
+  System.Numerics lets you do it by hand, and while it is a very convenient API
+  (write SIMD once, works on different SIMD architectures) it is also very
+  incomplete.  There are hundreds of SIMD intrinsics and .NET only supports a
+  dozen or so. Important ones like shift and convert are missing.  Discussions
+  are ongoing on how to add more.
+name: Jack Mott
+email: 8c3c60c04ebf3c327f495e18f4cad645
+url: ''
+hidden: ''
+date: '2017-06-27T14:00:32.397Z'
+doet_mee_aan_tornooi: true
+nieuwe_inschrijving: true
+aanwezig: true
