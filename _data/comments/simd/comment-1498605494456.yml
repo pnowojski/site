@@ -1,0 +1,13 @@
+_id: e4d16020-5b8e-11e7-9a13-b51276a7e587
+message: >-
+  If Presto were to adopt Truffle/Graal instead of runtime bytecode generation,
+  I think it allows you to substitute platform-specific instructions for method
+  calls (see
+  https://github.com/graalvm/graal/blob/3b1d7f2e9c3bb6a57600dbbcad20e5ecea36a20f/compiler/src/org.graalvm.compiler.lir.amd64/src/org/graalvm/compiler/lir/amd64/AMD64MathIntrinsicUnaryOp.java).
+  Presto seems like a great use case for Truffle, have any of the Presto
+  contributors looked at it?
+name: George Fraser
+email: 53961c1bfad2eaaaa30c6e0008cb580f
+url: ''
+hidden: ''
+date: '2017-06-27T23:18:14.455Z'
