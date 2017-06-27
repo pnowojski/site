@@ -1,0 +1,13 @@
+_id: a1edf2d0-5b40-11e7-9a99-bd84378a7f76
+message: >-
+  Rust can get auto vectorized the same as C++, including floating point, which
+  Java will never do (as of me typing this). You can also call the intrinsics by
+  hand, but it is not (yet) easy to do so.
+name: Jack Mott
+email: 8c3c60c04ebf3c327f495e18f4cad645
+url: ''
+hidden: ''
+date: '2017-06-27T13:58:01.445Z'
+doet_mee_aan_tornooi: true
+nieuwe_inschrijving: true
+aanwezig: true
